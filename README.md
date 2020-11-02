@@ -7,6 +7,6 @@ I'm a software developer from US. A lover of new things, especially new technolo
 -->
 
 - 🔭 I’m currently working on a React Native workout app
-- 🌱 I’m currently learning Spring Boot RESTful Services
+- 🌱 I’m currently learning Flutter
 - 😄 Pronouns: She/her
 - 📝 [Resume](https://annej17.github.io/img/resume.pdf)
