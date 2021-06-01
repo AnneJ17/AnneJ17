@@ -12,3 +12,5 @@
 <!--
 - 📝 [Resume](https://annej17.github.io/img/resume.pdf)
 -->
+  ## Code Stats
+  [![Anne's GitHub stats](https://github-readme-stats.vercel.app/api?username=Annej17&hide=issues&count_private=true&show_icons=true&theme=dracula)](https://github.com/AnneJ17/github-readme-stats)
